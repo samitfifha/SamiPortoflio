@@ -10,7 +10,7 @@ import {
   Devskills,
   Desskills,
   Lanskills,
-  services,
+  //services,
 } from "../../content_option";
 
 export const About = () => {

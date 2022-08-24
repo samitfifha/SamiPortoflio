@@ -11,13 +11,13 @@ const introdata = {
         second: "Designer / Developer",
         third: "Event & Artist Manager / Photographer / Videographer",
     },
-    description: "Web/Mobile developer for 2 years, designer for 5 years, expert in graphic design, amateur photo/videographer as well as Video editor for 2 years and artist and event manager since 2020",
+    description: "Web/Mobile developer for 2 years, designer for 5 years, expert in graphic design, amateur photo/videographer as well as Video editor for 2 years and artist & event manager since 2020",
     your_img_url: "https://cdn.discordapp.com/attachments/782697628529197147/1006705128742592562/113-01.jpg",
 };
 
 const dataabout = {
     title: "abit about my self",
-    aboutme: "Student in 2nd year of engineering computer and mobile systems at the Superior Private School of Engineering and Technologies, Web/ Mobile developer for 2 years, designer and editor for 4 years and amateur photographer/ videographer for 1 years and event promoter since 2013 and artist manager since 2020 and not that.. having also experience in artistic direction, I am always looking for new experiences, new opportunities and new challenges to meet, Whether in the field of marketing, event, artistic or Mobile/ Web development, I am always at your disposal to give you the services you want",
+    aboutme: "i am a student in the second year of my studies at the Superior Private School of Engineering and Technologies in the field of mobile and web development for 2 years, a designer and an editor for 4 years , amateur photographer and videographer for over a year, event promoter since 2013 as well as an artist manager for more than 2 years , i also  have a remarkable experience in the artistic direction . I am looking for new experiences and challenges , always ready to explore new opportunities , and willing to give you the best possible service at all times , Whether in the field of marketing, event promotion, artistic direction or Mobile/ Web development.",
 };
 const worktimeline = [{
         jobtitle: "Mobile developer & UI designer intern",
@@ -63,17 +63,16 @@ const worktimeline = [{
 ];
 
 const studiestimeline = [
-    {
-        jobtitle: "Diploma in Software Engineering ",
-        where: "ESPRIT",
-        date: "June 2023",
-    },
+{
+    jobtitle: "Diploma in Software Engineering ",
+    where: "ESPRIT",
+    date: "June 2023",
+},
 {
     jobtitle: "Certificate in digital design",
     where: "3S Formation",
     date: "May 2018",
 },
-
 {
     jobtitle: "diploma in Russian language",
     where: "Ryazan State Radio Engineering University",
